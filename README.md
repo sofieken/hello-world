@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+hey everybody
+my name is sofie and i'm 22 years old
